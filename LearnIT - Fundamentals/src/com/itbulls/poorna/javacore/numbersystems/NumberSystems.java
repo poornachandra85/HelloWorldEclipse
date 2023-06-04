@@ -1,4 +1,4 @@
-package com.itbulls.poorna.numbersystems;
+package com.itbulls.poorna.javacore.numbersystems;
 
 public class NumberSystems {
 

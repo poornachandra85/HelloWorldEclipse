@@ -1,4 +1,4 @@
-package com.itbulls.poorna.primitives;
+package com.itbulls.poorna.javacore.primitives;
 
 public class PrimitiveTypes {
 

@@ -1,4 +1,4 @@
-package com.itbulls.poorna.arrays;
+package com.itbulls.poorna.javacore.arrays;
 
 public class Arrays {
 
