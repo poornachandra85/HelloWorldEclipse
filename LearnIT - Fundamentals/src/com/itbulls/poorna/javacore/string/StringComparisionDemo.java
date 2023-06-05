@@ -11,6 +11,7 @@ public class StringComparisionDemo {
 		String s3=new String(" hello ");
 		System.out.println("s == s3 :"+ (s==s3)); // false becoz s is in String pool and s3 is in HEAP memory
 		System.out.println("s.equals(s3) :"+ s.equals(s3)); // true
+		System.out.println("s == s3.intern() :"+ (s==s3.intern())); //true
 		
 		String name="Poorna";
 		String name2="poorna";
